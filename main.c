@@ -27,7 +27,7 @@ int main(void) {
 			n+=1;
 	}
 	fclose(f2);
-  printf("\n\n%d por cento dos homens são não fumantes abaixo dos 40 anos.", (s*100)/n);
+  printf("\n\n%d por cento dos homens são não fumantes abaixo dos 40 anos.\n\n", (s*100)/n);
   return 0;
-  
+
 }
